@@ -15,7 +15,7 @@
   ✨ Creating bugs since 2020<br>
   📚 I'm currently learning about compilers, C++ language, on my own while brushing up on Rust language<br>
   🎓 In April 2025 I Graduated in MSc "Computer Engineering: AI and Data Analytics"<br>
-  🎯 Goals: Make a Rust.py transpiler to convert easy python code into Rust</p>
+</p>
 
 ###
 
