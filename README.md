@@ -16,7 +16,16 @@
   📚 I'm currently learning about compilers, C++ language, on my own while brushing up on Rust language<br>
   🎓 In April 2025 I Graduated in MSc "Computer Engineering: AI and Data Analytics"<br>
   🔧 And, yes... 🫠, I can also fix your laptop. <br>
-  🎆 You can see some project of mine @ <a href="https://Busso00.github.io">Busso's GitHub page</a>
+  🎆 You can see some project of mine @ <a href="https://Busso00.github.io">Busso's GitHub page</a> <br>
+  📂 You can also explore my repos, you will find:
+  <ul>
+    <li>DeepLearning report on anomaly detection for semantic segmentation on road @ <a href="https://github.com/Busso00/Kuka_robot_anomaly_detection/blob/main/mla24_prj08_fp1_report.pdf">course report</a></li>
+    <li>DeepLearning report on collision detection for time series of Kuka robot arm sensors@ <a href="https://github.com/Busso00/AML_ood_sem_segm/blob/master/Sem-segm-anomaly-detection-proj.pdf">course report</a></li>
+    <li>Machine learning report for a biometric identity verification (binary classification) @ <a href="https://github.com/Busso00/MLPR/blob/main/Report.pdf">course report</a></li>
+    <li>Quixo minmax based agent in (can play in TKinter) @ <a href="https://github.com/Busso00/Computational_Intelligence/tree/main">course project</a></li>
+    <li>Other PoliTO courses labs</li>
+    <li>And dulcis in fundo: a stroboscopic donut based on famous donut.c @ <a href="https://github.com/Busso00/stroboscopic_donut">donut</a></li>
+  </ul>
 </p>
 
 ###
