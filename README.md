@@ -15,7 +15,6 @@
   ✨ Creating bugs since 2020<br>
   📚 I'm currently learning about compilers, C++ language, on my own while brushing up on Rust language<br>
   🎓 In April 2025 I Graduated in MSc "Computer Engineering: AI and Data Analytics"<br>
-  🔧 And, yes... 🫠, I can also fix your laptop. <br>
   🎆 You can see some project of mine @ <a href="https://Busso00.github.io">Busso's GitHub page</a> <br>
   📂 You can also explore my repos, you will find:
   <ul>
