@@ -24,7 +24,7 @@
     <li>Machine learning report for a biometric identity verification (binary classification) @ <a href="https://github.com/Busso00/MLPR/blob/main/Report.pdf">course report</a></li>
     <li>Quixo minmax based agent in (can play in TKinter) @ <a href="https://github.com/Busso00/Computational_Intelligence/tree/main">course project</a></li>
     <li>Other PoliTO courses labs</li>
-    <li>And dulcis in fundo: a stroboscopic donut based on famous donut.c @ <a href="https://github.com/Busso00/stroboscopic_donut">donut</a></li>
+    <li>And dulcis in fundo: a stroboscopic donut based on famous donut.c @ <a href="https://github.com/Busso00/stroboscopic_donut">stroboscopic donut</a></li>
   </ul>
 </p>
 
